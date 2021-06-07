@@ -1,0 +1,14 @@
+.about img{
+width:290px;
+height: 100%;
+margin-left: 40px;
+}
+.about{
+    display: flex;
+    color: white;
+    margin-top: 40px;
+    
+}
+.skill{
+    margin: 5px;
+}
